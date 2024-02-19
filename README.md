@@ -1,7 +1,7 @@
 # 3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials
 
 <p align="center">
-<img src="walkthrough.png" width="80%" />
+<img src="walkthrough.png" width="100%" />
 </p>
 
 This is the repository for the ThermoPixels Interface in Rhino3D
